@@ -4,7 +4,6 @@ metadata:
    category: "GENERAL_SECURITY"
 definition:
    cond_type: "attribute"
-   resource_type:
-      - all
+   resource_type: "all"
    attribute: "tags.env"
    operator: "exists"
