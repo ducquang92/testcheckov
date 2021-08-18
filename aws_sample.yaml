@@ -1,4 +1,3 @@
----
 metadata:
  name: "Check that all resources are tagged with the key - env"
  id: "QUANGTEST_AWS_1"
